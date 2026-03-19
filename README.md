@@ -1,5 +1,6 @@
 # Two-Wheeled-Robot-DRL-Control
 Author: Tianhao Zhang
+
 Stuff used for EE 373/473 final project at Northwestern.
 
 `RL_robot_.ipynb` contains most of the code. The trained models and their normalization vectors are also included in this repo. As well as the hyperparameter grid search result ready for visualization.
